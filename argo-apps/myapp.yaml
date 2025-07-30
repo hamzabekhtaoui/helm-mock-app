@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/hamzabekhtaoui/helm-mock-app.git #https://github.com/hamzabekhtaoui/argocd-helm.git
     targetRevision: develop
-    path: .
+    path: apps/mock-frontend
     helm:
       valueFiles:
         - values.yaml
