@@ -8,7 +8,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/hamzabekhtaoui/helm-mock-app.git #https://github.com/hamzabekhtaoui/argocd-helm.git
-    targetRevision: main
+    targetRevision: develop
     path: .
     helm:
       valueFiles:
