@@ -1,5 +1,5 @@
 appName: mock-app
-message: "Interesting learning curve, keep going Hamza Yooohoo"
+message: "Interesting learning curve, keep going Hamza!"
 image:
   repository: ghcr.io/hamzabekhtaoui/mock-app-image-updater
   tag: v1.0.0-develop
